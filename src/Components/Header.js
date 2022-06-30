@@ -46,7 +46,7 @@ export default function Header() {
             Timer application with React hooks - Styles Material UI
           </Typography>
           <Typography id="modal-modal-description" sx={{ mt: 2 }}>
-            - Sarat Chandra Vemuri
+            Free2Hack
           </Typography>
         </Box>
       </Modal>
